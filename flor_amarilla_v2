@@ -117,11 +117,8 @@ write("Para la niña más bonita", align="center", font=("Arial", 11, "normal"))
 penup()
 goto(0, -300)
 pendown()
-write("Mi loquita <3", align="center", font=("Arial", 11, "normal"))
+write("Mi borreguita linda <3", align="center", font=("Arial", 11, "normal"))
 hideturtle()
-
-# Dibuja las estrellas aleatorias
-draw_random_start(50)
 
 hideturtle()
 
